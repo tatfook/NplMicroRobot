@@ -5,7 +5,7 @@ Date: 2019/12/27
 Desc: 
 use the lib:
 ------------------------------------------------------------
-NPL.load("(gl)Mod/NplRobot/ItemNplMicroRobotBlock.lua");
+NPL.load("(gl)Mod/NplMicroRobot/ItemNplMicroRobotBlock.lua");
 local ItemNplMicroRobotBlock = commonlib.gettable("MyCompany.Aries.Game.Items.ItemNplMicroRobotBlock");
 -------------------------------------------------------
 ]]
